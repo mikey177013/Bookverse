@@ -138,3 +138,11 @@ This project is licensed under the MIT License.
 <a href="https://www.instagram.com/bookverseshelf"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height="48"/></a>
 <a href="https://www.reddit.com/r/bookverseshelf/s/Gv05RtrfX4"><img src="https://go-skill-icons.vercel.app/api/icons?i=reddit" height="48"/></a>
 </p>
+
+<div align="center">
+
+<a href="https://github.com/mikey177013/Bookverse/releases/latest" target="_blank">
+  <img src="https://img.shields.io/badge/Download-BookVerse_APK-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Download BookVerse APK">
+</a>
+
+</div>
