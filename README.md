@@ -120,15 +120,6 @@ A modern social platform for readers to build their personal library, discover b
 | React | Supabase | Tailwind CSS | Vite |
 | TypeScript | PostgreSQL | shadcn/ui | Bun / npm |
 
----
-
-
-
-```bash
-npm run build
-```
-
----
 
 ## License
 
