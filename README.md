@@ -68,9 +68,6 @@ A modern social platform for readers to build their personal library, discover b
 
 </div>
 
-> GitHub automatically makes wide tables horizontally scrollable on mobile and desktop, giving a clean gallery effect.
-
----
 
 ## Features
 
@@ -125,35 +122,7 @@ A modern social platform for readers to build their personal library, discover b
 
 ---
 
-## Project Structure
 
-```
-src/
- ├── components/
- ├── pages/
- ├── hooks/
- ├── lib/
- ├── integrations/
- └── styles
-```
-
----
-
-## Running Locally
-
-```bash
-git clone https://github.com/yourusername/bookverse.git
-
-cd bookverse
-
-npm install
-
-npm run dev
-```
-
----
-
-## Build
 
 ```bash
 npm run build
