@@ -127,23 +127,19 @@ This project is licensed under the MIT License.
 
 ---
 
-## Connect
+---
 
 <p align="center">
-  <a href="https://github.com/mikey177013" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="34"/>
+  <a href="https://github.com/mikey177013">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/bookverseshelf" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="34"/>
+  <a href="https://www.instagram.com/bookverseshelf">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/bookverseshelf/s/Gv05RtrfX4" target="_blank">
-    <img src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" width="34"/>
+  <a href="https://www.reddit.com/r/bookverseshelf/s/Gv05RtrfX4">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
   <a href="https://github.com/mikey177013">GitHub</a> •
   <a href="https://www.instagram.com/bookverseshelf">Instagram</a> •
   <a href="https://www.reddit.com/r/bookverseshelf/s/Gv05RtrfX4">Reddit</a>
