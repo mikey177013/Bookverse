@@ -129,18 +129,12 @@ This project is licensed under the MIT License.
 
 ---
 
+## connect 
+
+---
+
 <p align="center">
-  <a href="https://github.com/mikey177013">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/bookverseshelf">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.reddit.com/r/bookverseshelf/s/Gv05RtrfX4">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-  </a>
-</p>
-  <a href="https://github.com/mikey177013">GitHub</a> •
-  <a href="https://www.instagram.com/bookverseshelf">Instagram</a> •
-  <a href="https://www.reddit.com/r/bookverseshelf/s/Gv05RtrfX4">Reddit</a>
+<a href="https://github.com/mikey177013"><img src="https://skillicons.dev/icons?i=github" height="48"/></a>
+<a href="https://www.instagram.com/bookverseshelf"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height="48"/></a>
+<a href="https://www.reddit.com/r/bookverseshelf/s/Gv05RtrfX4"><img src="https://go-skill-icons.vercel.app/api/icons?i=reddit" height="48"/></a>
 </p>
